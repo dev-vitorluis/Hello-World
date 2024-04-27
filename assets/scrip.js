@@ -1,3 +1,3 @@
 function clickAlert(){
-    alert("Hello World")
+    alert("Hello World!")
 }
